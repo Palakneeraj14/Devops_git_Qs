@@ -1,1 +1,1 @@
-# Devops_git_Qs
+this is the place holder for palakneeraj Devops class
